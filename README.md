@@ -60,6 +60,6 @@ Ao final deve se exibir uma mensagem:
 ## O CÓDIGO
 > - [Esta no arquivo index-classes.js](index-classes.js)
 ## O CÓDIGO DOS DEMAIS EXEMPLOS
-> - [Esta no arquivo index-varios-exemplos.js](index.classes.varios.exemplos.js)
+> - [Esta no arquivo index-varios-exemplos.js](index-classes-varios-exemplos.js)
 ## Vamos Conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julioduart/)
