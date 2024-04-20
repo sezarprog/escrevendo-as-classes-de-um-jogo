@@ -58,7 +58,7 @@ Ao final deve se exibir uma mensagem:
   - mago atacou usando magia
   - guerreiro atacou usando espada
 ## O CÓDIGO
-> - [Esta no arquivo index-classes.js](index.classes.js)
+> - [Esta no arquivo index-classes.js](index-classes.js)
 ## O CÓDIGO DOS DEMAIS EXEMPLOS
 > - [Esta no arquivo index-varios-exemplos.js](index.classes.varios.exemplos.js)
 ## Vamos Conectar!
